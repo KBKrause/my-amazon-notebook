@@ -12,10 +12,13 @@ AWS Lambda is an ideal compute platform for many application scenarios, provided
 
 When using AWS Lambda, you are responsible only for your code. AWS Lambda manages the compute fleet that offers a balance of memory, CPU, network, and other resources. This is in exchange for flexibility, which means you cannot log in to compute instances, or customize the operating system or language runtime. These constraints enable AWS Lambda to perform operational and administrative activities on your behalf, including provisioning capacity, monitoring fleet health, applying security patches, deploying your code, and monitoring and logging your Lambda functions.
 
-<h1>Steps</h1>
+<h1>Steps - Connect API Gateway to Lambda: Python</h1>
 <ol>
 <li> Go to the AWS Lambda console.
 <li> Create a function.
 <li> Create the minimum necessary roles - eg., using the logs.
 <li> Select your runtime (such as Python).
+<li> Go to API Gateway.
 </ol>
+
+<h2>Next Steps: CI/CD</h2>
