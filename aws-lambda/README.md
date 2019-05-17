@@ -17,7 +17,5 @@ When using AWS Lambda, you are responsible only for your code. AWS Lambda manage
 <li> Go to the AWS Lambda console.
 <li> Create a function.
 <li> Create the minimum necessary roles - eg., using the logs.
-<li> Select your runtime (such as Java).
-<li> Write your Java code.
-<li> Bundle your Java code using <code>jar cfe AWS.jar AWS AWS.class</code>
+<li> Select your runtime (such as Python).
 </ol>
