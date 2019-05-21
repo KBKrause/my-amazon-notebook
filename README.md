@@ -125,6 +125,7 @@
 - MSK
 
 <h3>Security, Identity, & Compliance</h3>
+
 - IAM
 - Resource Access Manager
 - Cognito
@@ -153,6 +154,7 @@
 - Amazon Sumerian
 
 <h3>Application Integration</h3>
+
 - Step Functions
 - Amazon MQ
 - Simple Notification Service
@@ -166,6 +168,7 @@
 - AWS Marketplace Subscriptions
 
 <h3>Customer Engagement</h3>
+
 - Amazon Connect
 - Pinpoint
 - Simple Email Service
